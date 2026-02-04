@@ -8,24 +8,17 @@ Furnishing and decorating tracker for the new house.
 
 ## Rooms
 
-| Room | Status | Notes |
-|------|--------|-------|
-| [Living Room](living-room.md) | 🟡 In Progress | |
-| [Kitchen](kitchen.md) | 🟡 In Progress | |
-| [Dining Room](dining-room.md) | 🔴 Not Started | |
-| [Primary Bedroom](primary-bedroom.md) | 🔴 Not Started | |
-| [Guest Bedroom](guest-bedroom.md) | 🔴 Not Started | |
-| [Office](office.md) | 🔴 Not Started | |
-| [Bathrooms](bathrooms.md) | 🔴 Not Started | |
-| [Outdoor](outdoor.md) | 🔴 Not Started | |
+- [Living Room](living-room.md)
+- [Kitchen](kitchen.md)
+- [Dining Room](dining-room.md)
+- [Primary Bedroom](primary-bedroom.md)
+- [Primary Entry / Coffee Bar](entry-coffee-bar.md)
+- [Guest Bedroom](guest-bedroom.md)
+- [Office](office.md)
+- [Media Room](media.md)
+- [Kitchen/Living Bathroom](bathrooms.md)
+- [Outdoor](outdoor.md)
+- [Sauna Area](sauna.md)
 
-## Team
-
-- **Thomas** — Owner
-- **Interiors Team** — TBD
-- **Friend** — TBD
 
 ## Links
-
-- Inspiration board: *(add link)*
-- Interiors team shared folder: *(add link)*

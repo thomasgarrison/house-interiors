@@ -2,19 +2,14 @@
 
 ## Outstanding Items
 
-| Item | Status | Owner | Priority | Notes |
-|------|--------|-------|----------|-------|
-| Dining table | ⬜ Not started | | High | |
-| Chairs | ⬜ Not started | | High | |
-| Lighting/chandelier | ⬜ Not started | | Medium | |
-| Sideboard/buffet | ⬜ Not started | | Low | |
-| Art/wall decor | ⬜ Not started | | Low | |
+| Item | Status | Owner | Notes |
+|------|--------|-------|-------|
+| Table centerpiece | ⬜ Not started | | A plant? |
+| Light fixture | 📅 March install | LF | LF bringing |
+| Wall art | 🔍 Exploring | | |
+| Coasters | ⬜ Not started | LF | |
 
 ## Decisions Needed
-
-- 
-
-## Notes
 
 - 
 
