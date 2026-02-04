@@ -1,0 +1,23 @@
+# Large media files
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.wmv
+
+# Large images (uncomment if needed)
+# *.psd
+# *.raw
+# *.cr2
+# *.nef
+
+# Media folder for local large files
+media/
+
+# OS clutter
+.DS_Store
+Thumbs.db
+
+# Editor
+*.swp
+*~
