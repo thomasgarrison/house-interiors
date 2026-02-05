@@ -7,7 +7,7 @@
 | Shoe racks | 💭 Idea | | ? |
 | Laundry baskets/hampers | ⬜ Not started | Thomas/Ben | BP-Zara Home has some good options for this! https://www.zara.com/us/en/home-laundry-baskets-l6734.html |
 | Decorative items | ⬜ Not started | Thomas/LF? | For shelves above desk |
-| Throw blanket | 💭 Idea | | ? BP-We have Sunday Citizen throws for our couch and bed and they are the most comfy blankets I've ever owned |
+| Throw blanket | 💭 Idea | | ? BP-Parachute has some great throws! Sunday Citizen also has some really comfy throws |
 | Wall art | ⬜ Not started | | |
 | Coasters | ⬜ Not started | LF | |
 | Curtains too long? | ⬜ Not started | | |
