@@ -4,16 +4,16 @@
 
 | Item | Status | Owner | Notes |
 |------|--------|-------|-------|
-| Nice soap | ⬜ Not started | Ben | |
+| Nice soap | Complete ✅ | Ben | |
 | Tray/countertop organizing |  | LF | |
 | Tissue box cover | 💭 Idea | | ? |
-| Mirror | Pending | | |
+| Mirror | LF Bringing Install 2 | LF | |
 | Toiletries stock | ⬜ Not started | Ben | |
 | Stool | 💭 Idea | | ? |
 | Trash can | ⬜ Not started | Thomas/Ben | |
-| Toilet brush | ⬜ Not started | Thomas/Ben | |
+| Toilet brush | Complete ✅ | Thomas/Ben | |
 | Medicine and first aid | ⬜ Not started | Thomas/Ben | Goes in laundry area near bathroom |
-| Toilet paper holder | ⬜ Not started | | |
+| Toilet paper holder | Ready for install | Method | |
 
 ## Decisions Needed
 

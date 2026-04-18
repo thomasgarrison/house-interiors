@@ -14,7 +14,6 @@
 
 ## Decisions Needed
 
-- Milk fridge location
 
 ## Inspiration
 
